@@ -3769,16 +3769,16 @@ only screen and (				min-resolution: 2dppx) {
 
 	/* Hero Sections */
 	.hero-5-1 .media-column{
-		background-image: url(/Capture%20-%20Courthouse.JPG);
+		background-image: url(Capture%20-%20Courthouse.JPG);
 	}
 	.hero-5-2 .media-column{
-		background-image: url(/Asset%204.png);
+		background-image: url(Asset%204.png);
 	}
 	.hero-5-3 .media-column{
-		background-image: url(/StonyBrook%2001.png);
+		background-image: url(StonyBrook%2001.png);
 	}
     .hero-5-4 .media-column{
-		background-image: url(/prints.gif);
+		background-image: url(prints.gif);
 	}
 
 	/* Call to Action Sections */
