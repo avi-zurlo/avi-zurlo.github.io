@@ -97,7 +97,7 @@ Copyright: ThemeMountain
 	z-index: 1;
 }
 .tms-forcefit{
-	background-size: cover;
+	background-size: contain;
 }
 .tms-carousel .tms-slide{
 	float: left;
